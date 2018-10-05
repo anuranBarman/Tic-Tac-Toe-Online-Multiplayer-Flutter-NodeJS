@@ -14,4 +14,4 @@ Please change the IP addresses whereever it's mentioned to make it work for you.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=fxMR8VEAb1s
 " target="_blank"><img src="http://img.youtube.com/vi/fxMR8VEAb1s/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="480" height="320" border="10" /></a>
